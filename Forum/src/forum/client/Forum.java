@@ -1,4 +1,4 @@
-package forum.client;
+package src.forum.client;
 
 import forum.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;
@@ -17,6 +17,7 @@ import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
+//Hej joxx0r
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
