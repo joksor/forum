@@ -1,4 +1,4 @@
-package src.forum.client;
+package forum.client;
 
 import forum.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;
