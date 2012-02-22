@@ -16,7 +16,7 @@ import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
-//Zup MF?
+
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
@@ -39,6 +39,13 @@ public class Forum implements EntryPoint {
 	/**
 	 * This is the entry point method.
 	 */
+	
+	public void Joyäger(){
+		boolean joy= true
+				while joy=true
+				print("Joy Äger!")
+	}
+	
 	public void onModuleLoad() {
 		final Button sendButton = new Button("Send");
 		final TextBox nameField = new TextBox();
